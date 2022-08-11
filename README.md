@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwinrishipj
-- 👀 I’m interested in full stack development
+- 👀 I’m working as a full stack development
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any javascript, java and python projects
 - 📫 How to reach me pjashwinrishi@gmail.com
